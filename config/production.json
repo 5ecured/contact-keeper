@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://trynd123:trynd123@cluster0-yjaee.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "secret"
-}
